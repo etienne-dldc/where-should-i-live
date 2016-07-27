@@ -53,10 +53,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
   for (var i = 0; i < polygons.length; i++) {
     var poly = polygons[i].map(point => {
       if (point === null) {
-        return [
-          0,
-          0
-        ]
+        return null
       }
       return [
         ((point[0] - minLat) / latDiff) * 300,
@@ -66,13 +63,17 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
     var opacity = polygons[i].data[2] / 6000;
 
-    ctx.fillStyle = 'rgba(0, 0, 0, ' + opacity + ')';
-    ctx.beginPath();
-    ctx.moveTo(poly[0][0],poly[0][1]);
-    for (var j = 1; j < poly.length; j++) {
-      ctx.lineTo(poly[j][0],poly[j][1])
+    if (poly[0] !== null) {
+      ctx.fillStyle = 'rgba(0, 0, 0, ' + opacity + ')';
+      ctx.beginPath();
+      ctx.moveTo(poly[0][0],poly[0][1]);
+      for (var j = 1; j < poly.length; j++) {
+        if (poly[j] !== null) {
+          ctx.lineTo(poly[j][0],poly[j][1])
+        }
+      }
+      ctx.fill();
     }
-    ctx.fill();
 
   }
 
