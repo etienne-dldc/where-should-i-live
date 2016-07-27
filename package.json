@@ -1,0 +1,32 @@
+{
+  "name": "where-should-i-live",
+  "version": "1.0.0",
+  "description": "Me trying to find the best place to live in Paris.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --content-base src/",
+    "compute": "node ./server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etienne-dldc/where-should-i-live.git"
+  },
+  "author": "Etienne DELADONCHAMPS <etienne.dldc@outlook.fr> (http://www.etiennedeladonchamps.fr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etienne-dldc/where-should-i-live/issues"
+  },
+  "homepage": "https://github.com/etienne-dldc/where-should-i-live#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "html-webpack-plugin": "^2.22.0",
+    "lodash": "^4.14.0",
+    "promise-sequence": "^0.2.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "node-fetch": "^1.5.3"
+  }
+}
