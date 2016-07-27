@@ -15,8 +15,8 @@ const CENTER_OF_PANAM = {
 };
 const RADIUS = 0.11;
 const OVAL_CORRECT = 0.53;
-const MIN_DIST_BETWEEN_COORDS = 0.01;
-const NUMBER_OF_POINTS = 250;
+const MIN_DIST_BETWEEN_COORDS = 0.008;
+const NUMBER_OF_POINTS = 500;
 
 function getData(origin, destination) {
   const params = {
@@ -109,11 +109,14 @@ function getDataList () {
   }
   final.then(function(results) {
     console.log('finish !')
-    const chunks = _.chunk(results, 20);
-    for (var i = 0; i < chunks.length; i++) {
-      const filename = path.resolve(__dirname, '..', 'data', new Date().getTime() + '-' + i + '.json');
-      fs.writeFileSync(filename, JSON.stringify(chunks[i]), 'utf8');
-    }
+    results = results.filter(item => item !== null);
+    const filename = path.resolve(__dirname, '..', 'data', new Date().getTime() + '.json');
+    fs.writeFileSync(filename, JSON.stringify(results), 'utf8');
+    // const chunks = _.chunk(results, 20);
+    // for (var i = 0; i < chunks.length; i++) {
+    //   const filename = path.resolve(__dirname, '..', 'data', new Date().getTime() + '-' + i + '.json');
+    //   fs.writeFileSync(filename, JSON.stringify(chunks[i]), 'utf8');
+    // }
   })
 }
 
@@ -136,17 +139,51 @@ function getPromiseForCoord (coord) {
   }
 }
 
-getDataList();
+function combineFiles () {
+  var file1 = fs.readFileSync(path.resolve(__dirname, '..', 'data', '1469609123198.json'));
+  var file2 = fs.readFileSync(path.resolve(__dirname, '..', 'data', '1469613278125.json'));
+  var data1 = JSON.parse(file1);
+  var data2 = JSON.parse(file2);
 
+  var allData = [...data1, ...data2];
+  const filename = path.resolve(__dirname, '..', 'data', new Date().getTime() + '-all' + '.json');
+  fs.writeFileSync(filename, JSON.stringify(allData), 'utf8');
+}
 
-// var list = getRandomCoordList();
-// list.map((coord) => {
-//   console.log(coord.lng + ',' + coord.lat);
-// })
+function logCoords () {
+  getRandomCoordList().map((coord) => {
+    console.log(coord.lng + ',' + coord.lat);
+  })
+}
 
+function averageTime (data) {
+  var durations = []
+  for (var i = 0; i < data.routes.length; i++) {
+    var leg = data.routes[i].legs[0];
+    durations.push(leg.duration.value);
+  }
+  var total = _.reduce(durations, function(sum, n) {
+    return sum + n;
+  }, 0);
+  return total / durations.length;
+}
 
+function reduceData () {
+  var data = JSON.parse(fs.readFileSync(path.resolve(__dirname, '..', 'data', '1469613368395-all.json')));
+  data = data.filter(item => item !== null);
+  var resume = data.map(function (item) {
+    var result = {
+      origin: item.origin,
+      taff: averageTime(item.taff),
+      gobs: averageTime(item.gobs)
+    };
+    return result
+  });
+  console.log(resume);
+  const filename = path.resolve(__dirname, '..', 'data', new Date().getTime() + '-resume' + '.json');
+  fs.writeFileSync(filename, JSON.stringify(resume), 'utf8');
+}
 
-
-// getData(TAFF, '48.839563,2.326401').then((data) => {
-//   console.log(data);
-// })
+// getDataList();
+// combineFiles();
+reduceData();
