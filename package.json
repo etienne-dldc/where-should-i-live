@@ -20,6 +20,7 @@
   "homepage": "https://github.com/etienne-dldc/where-should-i-live#readme",
   "devDependencies": {
     "colors": "^1.1.2",
+    "controlkit": "^0.1.9",
     "css-loader": "^0.23.1",
     "d3": "^4.1.1",
     "d3-voronoi": "^1.0.1",
