@@ -2,7 +2,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 var path = require('path');
 
 module.exports = {
-  entry: './boot.js',
+  entry: './boot.jsx',
   context: path.resolve(__dirname, 'client'),
   output: {
     path: __dirname,
@@ -10,6 +10,11 @@ module.exports = {
   },
   module: {
     loaders: [
+      {
+        //tell webpack to use jsx-loader for all *.jsx files
+        test: /\.jsx$/,
+        loader: 'jsx-loader?insertPragma=React.DOM&harmony'
+      },
       {
         test: /\.json$/,
         loader:'json'
