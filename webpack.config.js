@@ -2,7 +2,7 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 var path = require('path');
 
 module.exports = {
-  entry: './boot.jsx',
+  entry: './residences.js',
   context: path.resolve(__dirname, 'client'),
   output: {
     path: __dirname,

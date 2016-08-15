@@ -1,0 +1,1239 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.35321462154388, 48.8411818918108]
+        },
+        "id": "4",
+        "properties": {
+            "title": "FJT L\u2019Initiative",
+            "description": "<p>5 rue Daubenton, 75005 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n16 - 29 ans<\/p>... <a href=\"FJT-L-Initiative\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3300102, 48.8462958]
+        },
+        "id": "5",
+        "properties": {
+            "title": "FJT Marie-Jos\u00e9",
+            "description": "<p>7 bis rue Duguay Trouin, 75006 Paris<\/p>\n\n<p>18 - 26 ans<br class=\\'autobr\\' \/>\nFemmes seulement<\/p>... <a href=\"FJT-Marie-Jose\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.30234384536743, 48.8772585158212]
+        },
+        "id": "7",
+        "properties": {
+            "title": "Permanence Accueil des jeunes de l\u2019h\u00f4tellerie et de la restauration",
+            "description": "<p>9\/11 avenue Beaucour, 75008 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Permanence-Accueil-des-jeunes-de-l\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3440666, 48.877981]
+        },
+        "id": "9",
+        "properties": {
+            "title": "Foyer Jeune Cord\u00e9e",
+            "description": "<p>25 C rue de Maubeuge - 75009 Paris<\/p>\n\n<p>Femmes seulement<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Foyer-Jeune-Cordee\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3805149, 48.8575917]
+        },
+        "id": "10",
+        "properties": {
+            "title": "L\u2019\u00c9tape Voltaire",
+            "description": "<p>20 bd Voltaire, 75011 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n16 - 25 ans<\/p>... <a href=\"L-Etape-Voltaire\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3700564, 48.8618794]
+        },
+        "id": "11",
+        "properties": {
+            "title": "ALJT Paris 11- Saint-S\u00e9bastien",
+            "description": "<p>13 bis passage Saint-S\u00e9bastien 75011 Paris,<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-11-Saint-Sebastien\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3793477, 48.8590863]
+        },
+        "id": "12",
+        "properties": {
+            "title": "ALJT Paris 11- Sedaine",
+            "description": "<p>35 rue Sedaine, 75011 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-11-Sedaine\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3897089, 48.8478216]
+        },
+        "id": "13",
+        "properties": {
+            "title": "ALJT Paris 12 - Diderot",
+            "description": "<p>105 bd Diderot, 75012 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-12-Diderot\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3619432, 48.8213117]
+        },
+        "id": "16",
+        "properties": {
+            "title": "Relais Accueil",
+            "description": "<p>21 rue des Malmaisons, 75013 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Relais-Accueil\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3759039, 48.8258725]
+        },
+        "id": "17",
+        "properties": {
+            "title": "ALJT Paris 13 - Patay",
+            "description": "<p>9 rue Eug\u00e8ne Oudin\u00e9, 75013 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-13-Patay\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3506508, 48.8262426]
+        },
+        "id": "18",
+        "properties": {
+            "title": "R\u00e9sidence FJT Paulin-Enfert ",
+            "description": "<p>52 rue Bobillot, 75013 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Residence-FJT-Paulin-Enfert\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3411364, 48.8306229]
+        },
+        "id": "19",
+        "properties": {
+            "title": "ALJT Paris 14 - Glaci\u00e8re",
+            "description": "<p>64 rue de la Sant\u00e9, 75014 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-14-Glaciere\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3203778, 48.8915877]
+        },
+        "id": "20",
+        "properties": {
+            "title": "Foyer la Cit\u00e9 des Fleurs",
+            "description": "<p>29 rue Gauthey, 75017 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Foyer-la-Cite-des-Fleurs\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3543404, 48.8904083]
+        },
+        "id": "21",
+        "properties": {
+            "title": "ALJT Paris 18 - Marcadet",
+            "description": "<p>8 rue Marcadet, 75018 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-18-Marcadet\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3426898, 48.8933796]
+        },
+        "id": "22",
+        "properties": {
+            "title": "ALJT Paris 18 - Poteau",
+            "description": "<p>69 rue du Poteau, 75018 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-18-Poteau\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3516116, 48.8907641]
+        },
+        "id": "23",
+        "properties": {
+            "title": "ALJT Paris 18 - Poissonniers 70",
+            "description": "<p>70 rue des Poissonniers, 75018 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-18-Poissonniers-70\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3501443, 48.8860341]
+        },
+        "id": "24",
+        "properties": {
+            "title": "ALJT Paris 18 - Poissonniers 148",
+            "description": "<p>148 rue des Poissonniers, 75018 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-18-Poissonniers-148\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3325218, 48.8943007]
+        },
+        "id": "25",
+        "properties": {
+            "title": "Foyer Championnet",
+            "description": "<p>16 rue Georgette Agutte, 75018 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Foyer-Championnet\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3844898, 48.8879071]
+        },
+        "id": "26",
+        "properties": {
+            "title": "ALJT Paris 19 - Ourcq ",
+            "description": "<p>7 rue de l\u2019Ourcq, 75019 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-19-Ourcq\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3702017, 48.8941655]
+        },
+        "id": "27",
+        "properties": {
+            "title": "ALJT Paris 19 - Labois Rouillon",
+            "description": "<p>3 rue Labois Rouillon, 75019 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-19-Labois-Rouillon\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4016703, 48.873487]
+        },
+        "id": "28",
+        "properties": {
+            "title": "FJT Les Hauts de Belleville",
+            "description": "<p>43 rue du Borr\u00e9go, 75020 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"FJT-Les-Hauts-de-Belleville\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4005088, 48.8556155]
+        },
+        "id": "29",
+        "properties": {
+            "title": "ALJT Paris 20 - Dumas",
+            "description": "<p>93 rue Alexandre Dumas, 75020 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-20-Dumas\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3528812, 48.830722]
+        },
+        "id": "30",
+        "properties": {
+            "title": "L\u2019\u00c9tape Blanqui ",
+            "description": "<p>Boulevard Auguste Blanqui, 75013 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n16 - 25 ans<\/p>... <a href=\"L-Etape-Blanqui\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.6859871, 48.5374797]
+        },
+        "id": "31",
+        "properties": {
+            "title": "FJT La Passerelle",
+            "description": "<p>ZI 843 rue du Mar\u00e9chal Juin, 77000 Vaux-le-P\u00e9nil<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 26 ans<\/p>... <a href=\"FJT-La-Passerelle\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.6363938, 48.5028839]
+        },
+        "id": "32",
+        "properties": {
+            "title": "FJT Fran\u00e7ois-Gomez",
+            "description": "<p>6 avenue Charles P\u00e9guy, 77007 Melun<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n16 - 30 ans<\/p>... <a href=\"FJT-Francois-Gomez\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.7633813, 48.8554291]
+        },
+        "id": "33",
+        "properties": {
+            "title": "ALJT Mont\u00e9vrain",
+            "description": "<p>1-3-5-7 rue de Bruxelles, 77144 Mont\u00e9vrain<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Montevrain\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.76195447644046, 48.7339217]
+        },
+        "id": "34",
+        "properties": {
+            "title": "R\u00e9sidence Fr\u00e9d\u00e9ric-Ozanam ",
+            "description": "<p>Ch\u00e2teau de Combreux, 77220 Tournan-en-Brie<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 \u2013 28 ans<\/p>... <a href=\"Residence-Frederic-Ozanam\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.7007202, 48.8742848]
+        },
+        "id": "35",
+        "properties": {
+            "title": "Relais Jeunes 77 - Lagny",
+            "description": "<p>37 rue Henri Dunant, 77400 Lagny-sur-Marne<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"Relais-Jeunes-77-Lagny\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.5488721, 48.6322267]
+        },
+        "id": "36",
+        "properties": {
+            "title": "Relais Jeunes 77 - S\u00e9nart",
+            "description": "<p>81 rue de la Grenade, 77550 Moissy-Cramayel<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"Relais-Jeunes-77-Senart\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.6560932, 48.842485]
+        },
+        "id": "37",
+        "properties": {
+            "title": "Relais Jeunes 77 - Val Maubu\u00e9e",
+            "description": "<p>36 avenue de Lingenfeld, 77200 Torcy<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"Relais-Jeunes-77-Val-Maubuee\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.7768514, 48.8560461]
+        },
+        "id": "38",
+        "properties": {
+            "title": "Relais Jeunes 77 - Val d\u2019Europe",
+            "description": "<p>18\/18bis cours du Danube, 77700 Serris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"Relais-Jeunes-77-Val-d-Europe\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.1210038, 48.7947299]
+        },
+        "id": "39",
+        "properties": {
+            "title": "FJT Marcel-Callo",
+            "description": "<p>24 rue du Mar\u00e9chal Joffre, 78000 Versailles<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"FJT-Marcel-Callo\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.1330514, 48.7991902]
+        },
+        "id": "40",
+        "properties": {
+            "title": "ALJT Versailles",
+            "description": "<p>12 rue Edouard Lefebvre, 78000 Versailles<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Versailles\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0397505, 48.7825176]
+        },
+        "id": "41",
+        "properties": {
+            "title": "Association Relais Jeunes des Pr\u00e9s",
+            "description": "<p>14 all\u00e9e de l\u2019Ivraie, 78180 Montigny-le-Bretonneux<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Association-Relais-Jeunes-des-Pres\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.7120476, 48.9919581]
+        },
+        "id": "42",
+        "properties": {
+            "title": "Foyer des Jeunes Mantes-Val-de-Seine",
+            "description": "<p>21 rue d\u2019Alsace, 78200 Mantes-la-Jolie<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Foyer-des-Jeunes-Mantes-Val-de\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0110998, 48.8020939]
+        },
+        "id": "43",
+        "properties": {
+            "title": "ALJT Bois d\u2019Arcy",
+            "description": "<p>11 rue Jacques Tati, 78390 Bois d\u2019Arcy<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Bois-d-Arcy\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.9478049, 48.7689535]
+        },
+        "id": "44",
+        "properties": {
+            "title": "FJT les 7 Mares",
+            "description": "<p>1 rue des Tritons, 78990 Elancourt<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"FJT-les-7-Mares\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3736528, 48.671007]
+        },
+        "id": "45",
+        "properties": {
+            "title": "ALJT Viry-Chatillon",
+            "description": "<p>7 rue Maurice Sabatier, 91170 Viry-Chatillon<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Viry-Chatillon\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2983337, 48.5965128]
+        },
+        "id": "46",
+        "properties": {
+            "title": "ALJT Br\u00e9tigny-sur-Orge",
+            "description": "<p>50 rue Jean Rongi\u00e8re, 91220 Br\u00e9tigny-sur-Orge<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Bretigny-sur-Orge\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3811106, 48.6892896]
+        },
+        "id": "47",
+        "properties": {
+            "title": "ALJT Juvisy-sur-Orge",
+            "description": "<p>1 av Kleber, 91260 Juvisy-sur-Orge<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Juvisy-sur-Orge\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2077118, 48.8785555]
+        },
+        "id": "48",
+        "properties": {
+            "title": "Les Cr\u00e9as",
+            "description": "<p>39-41 rue de Garches, 92000 Nanterre<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Les-Creas\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2440953, 48.8292674]
+        },
+        "id": "49",
+        "properties": {
+            "title": "ALJT Boulogne Solf\u00e9rino",
+            "description": "<p>23 rue de Solf\u00e9rino, 92100 Boulogne-Billancourt<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Boulogne-Solferino\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2410646, 48.8310966]
+        },
+        "id": "50",
+        "properties": {
+            "title": "ALJT Boulogne Vieux Pont de S\u00e8vres ",
+            "description": "<p>155 rue du Vieux Pont de S\u00e8vres, 92100 Boulogne-Billancourt<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Boulogne-Vieux-Pont-de-Sevres\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2335387, 48.8379901]
+        },
+        "id": "51",
+        "properties": {
+            "title": "FJT de Boulogne-Koufra",
+            "description": "<p>6 rue de Koufra, 92100 Boulogne-Billancourt<\/p>\n\n<p>Hommes seulement<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"FJT-de-Boulogne-Koufra\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2694809, 48.826019]
+        },
+        "id": "52",
+        "properties": {
+            "title": "Les Jeunes de la Plaine",
+            "description": "<p>6 rue Charlot, 92130 Issy-les-Moulineaux<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Les-Jeunes-de-la-Plaine\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.26412773132324, 48.8077679014629]
+        },
+        "id": "53",
+        "properties": {
+            "title": "Le Moulin de Pierre",
+            "description": "<p>41 rue du Moulin-de-Pierre, 92140 Clamart<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n16 - 25 ans<\/p>... <a href=\"Le-Moulin-de-Pierre\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3105488, 48.9020519]
+        },
+        "id": "54",
+        "properties": {
+            "title": "L\u2019Appart\u2019 - Antenne Clichy-Asni\u00e8res",
+            "description": "<p>8 rue Henri Barbusse, 92110 Clichy-la-Garenne<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"L-Appart-Antenne-Clichy-Asnieres\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2946995, 48.921382]
+        },
+        "id": "55",
+        "properties": {
+            "title": "L\u2019Appart\u2019 - Antenne Gennevilliers-Villeneuve-Colombes",
+            "description": "<p>41 rue Victor Hugo, 92230 Gennevilliers<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"L-Appart-Antenne-Gennevilliers\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3203484, 48.8037351]
+        },
+        "id": "56",
+        "properties": {
+            "title": "R\u00e9sidence Victor-Hugo",
+            "description": "<p>16 avenue Victor Hugo, 92220 Bagneux<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Residence-Victor-Hugo\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.31611967086792, 48.7759189526057]
+        },
+        "id": "57",
+        "properties": {
+            "title": "Foyer Jeunesse",
+            "description": "<p>4 rue Bobierre de Valli\u00e8re, 92340 Bourg-la-Reine<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n16 - 25 ans<\/p>... <a href=\"Foyer-Jeunesse\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.1862969, 48.8027]
+        },
+        "id": "58",
+        "properties": {
+            "title": "ALJT Chaville",
+            "description": "<p>34 bd de la Lib\u00e9ration, 92370 Chaville<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Chaville\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.24452614784241, 48.8961546549511]
+        },
+        "id": "59",
+        "properties": {
+            "title": "Les Hypoquets",
+            "description": "<p>48 rue du Capitaine Guynemer, 92400 Courbevoie<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Les-Hypoquets\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.41128444671631, 48.9160977296759]
+        },
+        "id": "60",
+        "properties": {
+            "title": "ALJT Bobigny - Kahlo",
+            "description": "<p>75 rue Edouard Renard, 93000 Bobigny<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Bobigny-Kahlo\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3822545, 48.9143926]
+        },
+        "id": "61",
+        "properties": {
+            "title": "R\u00e9sidence Eug\u00e8ne-H\u00e9naff",
+            "description": "<p>51 rue de la Commune de Paris, 93300 Aubervilliers<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"Residence-Eugene-Henaff\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4704647064209, 48.8723931122889]
+        },
+        "id": "63",
+        "properties": {
+            "title": "ALJT Rosny-sous-Bois",
+            "description": "<p>333 boulevard la Boissi\u00e8re, 93110 Rosny-sous-Bois<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Rosny-sous-Bois\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3338188, 48.9134847]
+        },
+        "id": "65",
+        "properties": {
+            "title": "ALJT Saint-Ouen",
+            "description": "<p>74 rue Albert Dhalenne, 93400 Saint-Ouen<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Saint-Ouen\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2962211, 48.9567076]
+        },
+        "id": "66",
+        "properties": {
+            "title": "ALJT - Epinay-sur-Seine",
+            "description": "<p>22 rue de Strasbourg, 93800 Epinay-sur-Seine<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Epinay-sur-Seine\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4678056, 48.776571]
+        },
+        "id": "68",
+        "properties": {
+            "title": "ALJT Cr\u00e9teil",
+            "description": "<p>102 rue Juliette Savar, 94000 Cr\u00e9teil<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Creteil\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4588842, 48.7310192]
+        },
+        "id": "69",
+        "properties": {
+            "title": "ALJT Villeneuve-St-Georges",
+            "description": "<p>1\/19 rue L\u00e9o Lagrange, 94190 Villeneuve-Saint-Georges<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Villeneuve-St-Georges\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.381346, 48.8001855]
+        },
+        "id": "70",
+        "properties": {
+            "title": "ALJT Vitry-sur-Seine",
+            "description": "<p>3 all\u00e9e Pierre Lamouroux, 94400 Vitry-sur-Seine<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Vitry-sur-Seine\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.25412845611572, 48.9464483856568]
+        },
+        "id": "71",
+        "properties": {
+            "title": "ALJT Argenteuil",
+            "description": "<p>74 rue Alfred Labri\u00e8re, 95104 Argenteuil<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Argenteuil\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2272196, 48.9528922]
+        },
+        "id": "72",
+        "properties": {
+            "title": "ALJA-FJT Daniel-Fery",
+            "description": "<p>15 rue de la B\u00e9rionne, 95100 Argenteuil<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJA-FJT-Daniel-Fery\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.290175, 49.1407397]
+        },
+        "id": "73",
+        "properties": {
+            "title": "ALJEVO - FJT de Beaumont",
+            "description": "<p>21 rue Gambetta, 95260 Beaumont-sur-Oise<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"ALJEVO-FJT-de-Beaumont\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.06478595733643, 49.0460822742389]
+        },
+        "id": "74",
+        "properties": {
+            "title": "APUI &#171;&nbsp;Les Villageoises&nbsp;&#187;",
+            "description": "<p>9 rue de la Justice Mauve, 95000 Cergy<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"APUI-Les-Villageoises\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0753724, 49.0167218]
+        },
+        "id": "75",
+        "properties": {
+            "title": "ALJT Neuville-sur-Oise",
+            "description": "<p>12 mail Gay Lussac, Neuville-sur-Oise<br class=\\'autobr\\' \/>\n95015 Cergy-Pontoise Cedex<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Neuville-sur-Oise\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0905461, 49.0587967]
+        },
+        "id": "76",
+        "properties": {
+            "title": "ALJEVO - FJT des Louvrais",
+            "description": "<p>3 place de la Fraternit\u00e9, 95300 Pontoise<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"ALJEVO-FJT-des-Louvrais\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.08517074584961, 49.0434662139878]
+        },
+        "id": "77",
+        "properties": {
+            "title": "ALJT Pontoise",
+            "description": "<p>6 avenue Adolphe Chauvin, 95300 Pontoise<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Pontoise\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0797424, 49.0505109]
+        },
+        "id": "78",
+        "properties": {
+            "title": "ALJEVO - FJT Les Hauts de Marcouville",
+            "description": "<p>30 les Hauts de Marcouville, 95300 Pontoise<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"ALJEVO-FJT-Les-Hauts-de\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.5104832649231, 49.0054615700159]
+        },
+        "id": "79",
+        "properties": {
+            "title": "ALJT Roissy-en-France",
+            "description": "<p>3 avenue de Montmorency, 95700 Roissy-en-France<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Roissy-en-France\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3763042, 48.9798425]
+        },
+        "id": "80",
+        "properties": {
+            "title": "ALJT Sarcelles",
+            "description": "<p>10 bis avenue Paul Val\u00e9ry, 95200 Sarcelles<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Sarcelles\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3618518, 48.8517786]
+        },
+        "id": "82",
+        "properties": {
+            "title": "ALJT Paris 4 - C\u00e9lestins",
+            "description": "<p>30\/32 quai des C\u00e9lestins, 75004 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-4-Celestins-125\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.12294697761536, 48.8198985442078]
+        },
+        "id": "84",
+        "properties": {
+            "title": "FJT du Chesnay",
+            "description": "<p>FJT du Chesnay<br class=\\'autobr\\' \/>\n7 Impasse Ren\u00e9 Mouchotte, 78150 Le Chesnay<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"FJT-du-Chesnay\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.296125, 48.8094145]
+        },
+        "id": "85",
+        "properties": {
+            "title": "ALJT Ch\u00e2tillon",
+            "description": "<p>39-51 avenue Marcelin Berthelot, 92320 Ch\u00e2tillon<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Chatillon\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3014595, 48.8679747]
+        },
+        "id": "86",
+        "properties": {
+            "title": "FJT Chaillot-Galli\u00e9ra",
+            "description": "<p>28 av. Georges-V, 75008 Paris<\/p>\n\n<p>18 - 25 ans<br class=\\'autobr\\' \/>\nFemmes seulement<\/p>... <a href=\"Chaillot-Galliera\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.492492, 48.833911]
+        },
+        "id": "99",
+        "properties": {
+            "title": "94130 ALJT RJAM-Nogent-sur-Marne",
+            "description": "<p>31 rue Hoche, 94130 Nogent-sur-Marne<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n26-32 ans<\/p>... <a href=\"94130-ALJT-RJAM-Nogent-sur-Marne\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2980472, 48.7880728]
+        },
+        "id": "100",
+        "properties": {
+            "title": "92260 ALJT RJAM-Fontenay-aux-Roses",
+            "description": "<p>43 avenue Gabriel P\u00e9ri, 92260 Fontenay-aux-Roses<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n26-32 ans<\/p>... <a href=\"92260-ALJT-RJAM-Fontenay-aux-Roses\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3406757, 48.8306484]
+        },
+        "id": "101",
+        "properties": {
+            "title": "75014 ALJT RJAM-FERRUS",
+            "description": "<p>15 rue Ferrus, 75014 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n26-32 ans<\/p>... <a href=\"ALJT-RJAM-Ferrus\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3394661, 48.9343287]
+        },
+        "id": "102",
+        "properties": {
+            "title": "93450 ALJT RJAM-L\u2019Ile-Saint-Denis",
+            "description": "<p>1 rue du Bocage, 93450 L&#8217;Ile-Saint-Denis<\/p>... <a href=\"93450-ALJT-RJAM-L-Ile-Saint-Denis\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3279549, 48.7955065]
+        },
+        "id": "103",
+        "properties": {
+            "title": "94230 ALJT RJAM-Cachan",
+            "description": "<p>36 rue Marcel Bonnet, 94230 Cachan<\/p>... <a href=\"94230-ALJT-RJAM-Cachan\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.8176282, 48.8724494]
+        },
+        "id": "105",
+        "properties": {
+            "title": "77700 ALJT RJAM-Magny-le-Hongre",
+            "description": "<p>20 rue de la cl\u00e9 des champs, 77700 Magny-le-Hongre<\/p>... <a href=\"77700-ALJT-RJAM-Magny-le-Hongre\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4594953, 48.7305491]
+        },
+        "id": "109",
+        "properties": {
+            "title": "ALJT RJAM-Villeneuve-Saint-Georges",
+            "description": "<p>1-3 rue Guillaume Apollinaire, 94190 Villeneuve-Saint-Georges<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n26-32 ans<\/p>... <a href=\"ALJT-RJAM-Villeneuve-Saint-Georges\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3455810546875, 48.8599716625836]
+        },
+        "id": "110",
+        "properties": {
+            "title": "ALJT Paris 19 - Ourcq 23",
+            "description": "<p>23-25 rue de l\u2019Ourcq, 75019 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-19-Ourcq-23\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.39192962646484, 48.8425199651199]
+        },
+        "id": "118",
+        "properties": {
+            "title": "FJT de Reuilly",
+            "description": "<p>61 rue de la Gare de Reuilly, 75012 Paris<\/p>\n\n<p>Femmes seulement<br class=\\'autobr\\' \/>\n17 - 25 ans<\/p>... <a href=\"http-urhaj-idf-fr-FJT-de-Reuilly\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3862182, 48.8981083]
+        },
+        "id": "122",
+        "properties": {
+            "title": "ALJT Boulevard Macdonald",
+            "description": "<p>68 rue C\u00e9saria Evora, 75019 Paris<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Boulevard-Macdonald\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4418544, 48.8989248]
+        },
+        "id": "123",
+        "properties": {
+            "title": "ALJT RJAM Bobigny",
+            "description": "<p>80-82 rue Edouard Renard, 93000 Bobigny<\/p>\n\n<p>Mixte <br class=\\'autobr\\' \/>\n26-30 ans<\/p>... <a href=\"ALJT-RJAM-Bobigny\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.6472192, 48.8456859]
+        },
+        "id": "124",
+        "properties": {
+            "title": "Relais Jeunes 77 - Torcy Chaplin",
+            "description": "<p>7 rue de Charlie Chaplin, 77200 Torcy<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"Relais-Jeunes-77-Torcy-Chaplin\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.222147, 48.8206345]
+        },
+        "id": "125",
+        "properties": {
+            "title": "ALJT S\u00e8vres",
+            "description": "<p>10 rue Jules Hetzel, 92310 S\u00e8vres<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Sevres\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3870592, 48.6902631]
+        },
+        "id": "126",
+        "properties": {
+            "title": "ALJT Juvisy- Montains",
+            "description": "<p>22 rue Danton, 91260 Juvisy-sur-Orge<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Juvisy-Montains-163\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.33215, 48.9142333]
+        },
+        "id": "127",
+        "properties": {
+            "title": "ALJT RJAM-Saint-Ouen",
+            "description": "<p>41 rue Dhalenne 93400 Saint Ouen<\/p>\n\n<p>Mixte <br class=\\'autobr\\' \/>\n26-30 ans<\/p>... <a href=\"95200-ALJT-RJAM-Saint-Ouen\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0103532, 49.0462756]
+        },
+        "id": "128",
+        "properties": {
+            "title": "ALJT Cergy-les-Hauts",
+            "description": "<p>5 rue des Aubevoys, 95800 Cergy-Pontoise<\/p>\n\n<p>Mixte <br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Cergy-les-Hauts\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2112195, 49.0210668]
+        },
+        "id": "129",
+        "properties": {
+            "title": "95150.ALJEVO-FJT St\u00e9phane Hessel",
+            "description": "<p>2 rue Vaclav Havel, 95150 Taverny<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"95150-ALJEVO-FJT-Stephane-Hessel\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.0249424, 48.7759215]
+        },
+        "id": "130",
+        "properties": {
+            "title": "ALJT Montigny-le-Bretonneux",
+            "description": "<p>2 rue des Tritons, 78180 Montigny-le-Bretonneux<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Montigny-le-Bretonneux\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3546383, 48.8888784]
+        },
+        "id": "131",
+        "properties": {
+            "title": "ALJT Paris 18-Ernestine",
+            "description": "<p>4 rue Ernestine, 75018 Paris<\/p>\n\n<p>Mixte <br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"ALJT-Paris-18-Ernestine\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.4009477, 48.8732049]
+        },
+        "id": "132",
+        "properties": {
+            "title": "Les Hauts de Belleville",
+            "description": "<p>43 rue Borr\u00e9go, 75020 Paris<\/p>\n\n<p>Mixte <br class=\\'autobr\\' \/>\n18 - 25 ans<\/p>... <a href=\"Les-Hauts-de-Belleville\">En savoir plus<\/a>"
+
+
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.2458916, 48.8184996]
+        },
+        "id": "134",
+        "properties": {
+            "title": "FJT Les Jeunes de la Plaine",
+            "description": "<p>216-218 avenue de Verdun, 92130 Issy-les-Moulineaux<\/p>\n\n<p>Mixte<br class=\\'autobr\\' \/>\n18 - 30 ans<\/p>... <a href=\"FJT-Les-Jeunes-de-la-Plaine\">En savoir plus<\/a>"
+
+
+        }
+    }]
+}
